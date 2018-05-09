@@ -2,9 +2,9 @@
   "name": "FTPnTimeBot",
   "version": "1.0.0",
   "description": "This is a sample of an Bot built on Node JS with multi-dialog that give the time of any Country requested and return a file requested from a FTP",
-  "main": "app.js",
+  "main": "local-app.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node local-app.js",
     "test": "node test.js",
     "azure-publish": "node publish.js"
   },
