@@ -5,10 +5,10 @@ var fs = require('fs');
 var util = require('util');
 
 var config = {
-        host: 'ftp.jasabino.5gbfree.com',
+        host: 'ftp.drivehq.com',
         port: 21,
-        user: 'testing@jasabino.5gbfree.com',
-        password: 'testing'
+        user: 'jasabino',
+        password: 'cVbNm567:'
     };
 
 function sendFile(filename, session){
